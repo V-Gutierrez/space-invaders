@@ -1,4 +1,4 @@
-use crate::{ROWS, COLS};
+use crate::{COLS, ROWS};
 
 pub type Frame = Vec<Vec<&'static str>>;
 
